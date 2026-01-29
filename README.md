@@ -1,6 +1,6 @@
-# AI Tools for Founders and Builders
+# AI Tools for Founders
 
-Open-source AI-powered tools for product validation, ideation, and analysis. Built for founders, solopreneurs, and builders who want to move faster.
+Open-source AI-powered tools for product validation, ideation, and token design. Built for web3 founders, solopreneurs, and builders who want to move faster.
 
 These are the same tools I use in my own business and demo at workshops.
 
@@ -8,21 +8,24 @@ These are the same tools I use in my own business and demo at workshops.
 
 | Tool | What It Does |
 |------|--------------|
-| **Product Evaluator** | Brutally honest validation for digital product ideas |
-| **Product Idea Generator** | Generates tailored product ideas based on your expertise |
-| **Blockchain SaaS Evaluator** | Validates blockchain/web3 product concepts |
-| **Whitepaper Analyzer** | Extracts claims, flags risks, summarizes technical docs |
-| **Funding Fit Analyzer** | Evaluates startup alignment with funding opportunities |
+| **Blockchain SaaS Evaluator** | Brutally honest validation for web3 product ideas — including the "do you actually need blockchain?" test |
+| **Blockchain SaaS Idea Generator** | Generates tailored web3 product ideas based on your domain knowledge and interests |
+| **Tokenomics Starter** | Helps you decide if you need a token, and if yes, designs a simple starting framework |
 
 *More tools added regularly.*
 
 ## How to Use
 
-[We'll add installation/usage instructions here once you decide on format — are these prompt files, markdown files, or something else?]
+These are Claude Skills — custom instructions that turn Claude into specialized tools. To use them:
+
+1. Download the `.md` file for the skill you want
+2. Go to Claude.ai → Settings → Claude Skills
+3. Upload the file
+4. Start a new conversation and describe what you need
 
 ## Why I Build in Public
 
-I'm documenting what actually works (and what doesn't) as I turn my skills into revenue generating ventures, without leaving academia. If you're building on the side too, we're on the same path.
+I'm documenting what actually works (and what doesn't) as I turn expertise into income streams — without leaving academia. If you're building on the side too, we're on the same path.
 
 ## Want More?
 
