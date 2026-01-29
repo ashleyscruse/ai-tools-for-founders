@@ -25,7 +25,7 @@ These are Claude Skills — custom instructions that turn Claude into specialize
 
 ## Why I Build in Public
 
-I'm documenting what actually works (and what doesn't) as I turn expertise into income streams — without leaving academia. If you're building on the side too, we're on the same path.
+I'm documenting what actually works (and what doesn't) as I turn skills into revenue generating ventures, without leaving academia. If this resonates, say hi. I like meeting other people figuring this out.
 
 ## Want More?
 
