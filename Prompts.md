@@ -6,12 +6,10 @@ Problems I've experienced or observed in web3: \[blank\]
 My goal is: \[revenue / learning / reputation / building a portfolio\]  
 I'm building: \[solo / with a team\]  
 Timeline: \[2-4 weeks / 4-6 weeks / flexible\]  
----
 
 I'm knowledgeable in: \[blank\]  
 I'm frustrated by: \[blank\]  
 I want to build for: \[builders / traders / DAOs / creators / normies\]  
----
 
 I'm knowledgeable in: DeFi yield strategies, portfolio tracking, and DAO governance  
 I'm interested in: Building tools for other DeFi users  
@@ -29,12 +27,10 @@ I want to build something in web3 but I'm not sure what. Here's my background:
 \- My goal is to build something I could launch in 4-6 weeks and potentially charge for  
 \- I'm building solo  
 What should I build?  
----
 
 Evaluate this idea:  
 I want to build a "Yelp for smart contracts" — a platform where users can rate and review smart contracts they've interacted with. The reviews would be stored on-chain for transparency. Projects with good ratings get a trust badge. I'd charge projects a monthly fee to claim their profile and respond to reviews.  
 Is this worth building?  
----
 
 I'm building a decentralized freelancer marketplace for web3 jobs. Clients post jobs, freelancers bid, work gets done, payment is released from escrow.  
 The product works fine with just ETH/USDC payments. But I'm wondering if I should add a token. Maybe for:  
